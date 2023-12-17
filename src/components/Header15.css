@@ -1,0 +1,232 @@
+.header-15-child,
+.header-15-item {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(72.75px);
+}
+.header-15-child {
+  top: 121.7px;
+  left: 287.1px;
+  background-color: rgba(84, 193, 255, 0.6);
+  width: 113.2px;
+  height: 91.2px;
+}
+.header-15-item {
+  top: 70.6px;
+  left: 350.2px;
+  background-color: #ffdebf;
+  width: 105.4px;
+  height: 99px;
+}
+.image-icon3 {
+  position: absolute;
+  top: 77.7px;
+  left: 345.3px;
+  border-radius: 6.39px;
+  width: 96.9px;
+  height: 96.9px;
+  object-fit: cover;
+}
+.image-icon4 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 14px;
+  top: -14px;
+  transform: scale(1.8);
+}
+.wrapper-image2 {
+  position: absolute;
+  top: 128.5px;
+  left: 270.8px;
+  width: 110.4px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.accept-payments-and,
+.design-is-intelligence1 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  width: 161.8px;
+  height: 66px;
+  flex-shrink: 0;
+}
+.accept-payments-and {
+  font-size: var(--font-size-7xs-7);
+  line-height: 180%;
+  color: var(--grayscale-900-opacity-72);
+  height: 30.9px;
+}
+.design-is-intelligence-made-vi-group {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4.26px;
+}
+.button65 {
+  position: relative;
+  line-height: 8.52px;
+  font-weight: 500;
+}
+.button64,
+.button66 {
+  border-radius: 2.13px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 2.1291663646698px 7.0972208976745605px;
+}
+.button64 {
+  background-color: var(--indigo-500);
+}
+.button66 {
+  color: var(--grayscale-900);
+}
+.button-parent6,
+.frame-parent16,
+.product-parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-parent6 {
+  flex-shrink: 0;
+  flex-direction: row;
+  gap: 4.26px;
+  font-size: var(--font-size-8xs);
+  color: var(--black-white-white);
+}
+.frame-parent16,
+.product-parent6 {
+  position: absolute;
+}
+.frame-parent16 {
+  top: 70.6px;
+  left: 55.4px;
+  flex-direction: column;
+  gap: 11.36px;
+  font-size: 15.6px;
+}
+.product-parent6 {
+  top: 11.4px;
+  left: calc(50% - 76.2px);
+  flex-direction: row;
+  gap: 17.03px;
+}
+.ondark-icon7 {
+  position: absolute;
+  top: 9.2px;
+  left: 55.4px;
+  width: 31.2px;
+  height: 12.8px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.button68 {
+  border-radius: 2.13px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 2.83888840675354px 8.5166654586792px;
+}
+.button-parent7,
+.button68,
+.button70 {
+  display: flex;
+  flex-direction: row;
+}
+.button70 {
+  border-radius: 2.13px;
+  background-color: var(--indigo-500);
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 2.83888840675354px 8.5166654586792px;
+  color: var(--black-white-white);
+}
+.button-parent7 {
+  position: absolute;
+  top: 8.5px;
+  right: 55.4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.84px;
+  color: var(--grayscale-900);
+}
+.navbar-94 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 511px;
+  height: 31.2px;
+  overflow: hidden;
+  color: var(--grayscale-900-opacity-72);
+}
+.user-interface-stacked-area {
+  position: relative;
+  width: 9.9px;
+  height: 9.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.how-long-do6 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-7xs-7);
+  line-height: 140%;
+}
+.once-youre-set6,
+.read-more1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+  color: var(--grayscale-900-opacity-56);
+}
+.read-more1 {
+  font-weight: 600;
+  color: var(--blue-500);
+}
+.how-long-do-payouts-take-parent4,
+.naked,
+.naked1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.how-long-do-payouts-take-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4.26px;
+}
+.naked,
+.naked1 {
+  position: absolute;
+  top: 238.1px;
+  left: 55.4px;
+  width: 195.9px;
+  flex-direction: row;
+  gap: var(--gap-5xs-1);
+}
+.naked1 {
+  left: 259.8px;
+}
+.header-15 {
+  border-radius: 20.07px;
+  background-color: var(--black-white-white);
+  width: 511px;
+  height: 319.4px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--grayscale-900);
+  font-family: var(--body-sm);
+}

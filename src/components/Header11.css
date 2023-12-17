@@ -1,0 +1,141 @@
+.blur,
+.blur1 {
+  position: absolute;
+  top: 81.2px;
+  left: 102.7px;
+  border-radius: 50%;
+  background-color: #ffd391;
+  filter: blur(71.57px);
+  width: 172.5px;
+  height: 172.5px;
+  opacity: 0.4;
+}
+.blur1 {
+  left: 240.1px;
+  background-color: #ff96d5;
+}
+.your-business-phone {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 266.2px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.dlex-adds-a {
+  margin: 0;
+}
+.dlex-adds-a-container {
+  position: relative;
+  font-size: var(--font-size-5xs-2);
+  line-height: 180%;
+  color: var(--grayscale-900-opacity-72);
+  display: inline-block;
+  width: 266.2px;
+  height: 25.8px;
+  flex-shrink: 0;
+}
+.your-business-phone-reimagine-parent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7.16px;
+}
+.button35 {
+  position: relative;
+  font-weight: 500;
+}
+.button34 {
+  border-radius: 2.86px;
+  background-color: var(--indigo-500);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5.010066986083984px 11.451581954956055px;
+}
+.learn-more {
+  position: relative;
+  line-height: 180%;
+  color: var(--indigo-500);
+  display: inline-block;
+  width: 32.6px;
+  height: 10.4px;
+  flex-shrink: 0;
+}
+.button-parent2,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-parent2 {
+  flex-shrink: 0;
+  gap: 5.73px;
+  font-size: var(--font-size-7xs-7);
+  color: var(--black-white-white);
+}
+.frame-parent3 {
+  position: absolute;
+  top: 100.9px;
+  left: 124.5px;
+  gap: 14.31px;
+}
+.ondark-icon4 {
+  position: absolute;
+  top: 11.5px;
+  left: 55.8px;
+  width: 31.5px;
+  height: 12.9px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.product6 {
+  position: relative;
+  line-height: 180%;
+}
+.product-parent3 {
+  position: absolute;
+  top: 12.9px;
+  right: 56.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20.04px;
+}
+.navbar-9-child {
+  position: absolute;
+  top: 35.8px;
+  left: 55.8px;
+  background-color: var(--grayscale-900-opacity-8);
+  width: 403.7px;
+  height: 0.4px;
+}
+.header-11,
+.navbar-91 {
+  width: 515.3px;
+  overflow: hidden;
+}
+.navbar-91 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 36.1px;
+  text-align: left;
+  font-size: var(--font-size-7xs-7);
+  color: var(--grayscale-900-opacity-72);
+}
+.header-11 {
+  border-radius: var(--br-xl);
+  background-color: var(--yellow-50);
+  height: 322.1px;
+  text-align: center;
+  font-size: 20px;
+  color: var(--grayscale-900);
+  font-family: var(--body-sm);
+}

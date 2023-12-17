@@ -1,0 +1,108 @@
+.global-scale,
+.the-backbone-for {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.global-scale {
+  letter-spacing: 0.28px;
+  line-height: 170%;
+  text-transform: uppercase;
+  font-weight: 600;
+  width: 38.6px;
+  height: 8.5px;
+}
+.the-backbone-for {
+  font-size: 14.2px;
+  line-height: 140%;
+  color: var(--grayscale-900);
+  width: 195.7px;
+  height: 39.7px;
+}
+.global-scale-parent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4.25px;
+}
+.amet-minim-mollit2 {
+  position: relative;
+  font-size: 6.4px;
+  line-height: 180%;
+  color: var(--grayscale-900-opacity-72);
+  display: inline-block;
+  width: 195.7px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.frame-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.67px;
+}
+.how-long-do2,
+.once-youre-set2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.once-youre-set2 {
+  font-size: var(--font-size-8xs);
+  line-height: 180%;
+  color: var(--grayscale-900-opacity-56);
+}
+.how-long-do-payouts-take-container {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4.25px;
+}
+.frame,
+.how-long-do-payouts-take-container,
+.outline,
+.stats-9 {
+  display: flex;
+  justify-content: flex-start;
+}
+.outline {
+  border-radius: 4.25px;
+  border: 0.4px solid var(--grayscale-900-opacity-12);
+  box-sizing: border-box;
+  width: 94.3px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 11.343551635742188px 8.50766372680664px;
+}
+.frame,
+.stats-9 {
+  overflow: hidden;
+}
+.frame {
+  width: 399.9px;
+  height: 56.9px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-4xs-5);
+}
+.stats-9 {
+  border-radius: var(--br-xl);
+  background-color: var(--black-white-white);
+  width: 510.5px;
+  height: 234px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 34.030677795410156px 55.2998046875px 33.80741882324219px
+    55.2998161315918px;
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--indigo-500);
+  font-family: var(--body-sm);
+}
